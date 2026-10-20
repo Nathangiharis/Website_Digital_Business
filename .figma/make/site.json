@@ -1,0 +1,18 @@
+{
+  "title": "Digital Business Unpad",
+  "description": "Showcases a sleek landing page for Unpad's Digital Business program featuring dynamic alumni profiles, course details, and career prospects to engage prospective students.",
+  "language": "En",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
